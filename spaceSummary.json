@@ -1,0 +1,28 @@
+{
+  _id: { space: 'Kids' },
+  timeSpent: 1.5,
+  lastSpaceActivityMonth: 10
+},
+{ _id: { space: '' }, timeSpent: 0, lastSpaceActivityMonth: 11 },
+{ _id: { space: 'Fun' }, timeSpent: 2, lastSpaceActivityMonth: 12 },
+{
+  _id: { space: 'Finance' },
+  timeSpent: 22,
+  lastSpaceActivityMonth: 12
+},
+{ _id: { space: null }, timeSpent: 2, lastSpaceActivityMonth: 12 },
+{
+  _id: { space: 'Career' },
+  timeSpent: 32.5,
+  lastSpaceActivityMonth: 12
+},
+{
+  _id: { space: 'Systems' },
+  timeSpent: 0,
+  lastSpaceActivityMonth: 1
+},
+{
+  _id: { space: 'Product' },
+  timeSpent: 66.5,
+  lastSpaceActivityMonth: 12
+}
