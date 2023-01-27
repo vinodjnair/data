@@ -1,20 +1,6 @@
 {
-  timeSpent: 1.5,
-  lastSpaceActivityMonth: 10
-},
-{
-  timeSpent: 22,
-  lastSpaceActivityMonth: 12
-},
-{
-  timeSpent: 32.5,
-  lastSpaceActivityMonth: 12
-},
-{
-  timeSpent: 0,
-  lastSpaceActivityMonth: 1
-},
-{
-  timeSpent: 66.5,
-  lastSpaceActivityMonth: 12
+"place": "GeeksforGeeks",
+"visitiors": "100M",
+"target": "Client",
+"source": "Server"
 }
