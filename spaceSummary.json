@@ -3,8 +3,28 @@
   "timeSpent":"1.5",
   "lastSpaceActivityMonth":"10"
 },
+{ 
+  "space":"Fun",
+  "timeSpent":"2",
+  "lastSpaceActivityMonth":"12" 
+},
 {
   "space":"Finance",
   "timeSpent":"22",
+  "lastSpaceActivityMonth":"12"
+},
+{
+  "space":"Career",
+  "timeSpent":"32.5",
+  "lastSpaceActivityMonth":"12"
+},
+{
+  "space":"Systems",
+  "timeSpent":"0",
+  "lastSpaceActivityMonth":"1"
+},
+{
+  "space":"Product",
+  "timeSpent":"66.5",
   "lastSpaceActivityMonth":"12"
 }]
